@@ -1,0 +1,8 @@
+#dude {
+    position: absolute;
+    background-color: black;
+    width: 40px;
+    height: 65px;
+    left: 50%; 
+    top: 50%;
+}
